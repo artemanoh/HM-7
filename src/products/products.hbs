@@ -1,0 +1,12 @@
+<ul class="products_list">
+    {{#each products}}
+    <li class="products_item">
+        <p class="products_id">Id: {{id}}</p>
+        <h2 class="products_name">{{name}}</h2>
+        <p class="products_price">{{price}} UAH</p>
+        <p class="products_description">{{description}}</p>
+        <p class="products_category">Category: {{category}}</p>
+        <p class="products_rating">Rating: {{rating}}</p>
+    </li>
+    {{/each}}
+</ul>
