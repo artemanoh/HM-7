@@ -1,4 +1,4 @@
-import createList from "./products.hbs";
+import createList from "./products/products.hbs";
 import { products } from "./data.js";
 
 const body = document.querySelector("body");
