@@ -16,12 +16,12 @@
   "devDependencies": {
     "handlebars": "^4.7.8",
     "handlebars-loader": "^1.7.3",
-    "parcel": "^2.14.4",
-    "parcel-transformer-hbs": "^1.0.4"
+    "parcel": "^2.14.4"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
     "parcel-reporter-clean-dist": "^1.0.4",
+    "parcel-transformer-hbs": "^1.0.4",
     "posthtml-include": "^2.0.1"
   }
 }
